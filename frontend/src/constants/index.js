@@ -1,0 +1,5 @@
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const CHANGE_USER_PROPERTIES = "CHANGE_USER_PROPERTIES";
+
+export const SET_ACTIVE_WORKOUT = "SET_ACTIVE_WORKOUT";

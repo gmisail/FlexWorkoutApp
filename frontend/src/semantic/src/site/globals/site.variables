@@ -1,0 +1,25 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+/*
+*   Fonts
+*/
+@importGoogleFonts : true;
+@googleProtocol : 'https://';
+@googleFontRequest : 'Lato:400,700|Montserrat:400,700';
+
+@headerFont: 'Montserrat', serif;
+@pageFont: 'Lato', sans-serif;
+
+/*
+*   Colors
+*/
+
+@pageBackground : #F9F9F9;
+
+@primaryColor        : #E4572E;/*#273043; */ /*#0E79B2;*/
+@secondaryColor      : #000000;
+
+@lightPrimaryColor   : #EB8467; /*#91C2DC;*/
+@lightSecondaryColor : @lightBlack;

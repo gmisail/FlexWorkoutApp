@@ -1,0 +1,15 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+
+/*
+*   Colors
+*/
+
+@backgroundColor: @primaryColor;
+@textColor: white;
+
+@hoverBackgroundColor: @lightPrimaryColor;
+
+@borderRadius: 32px;
+
